@@ -1,0 +1,12 @@
+nodejs-project
+nodejs-project/node_modules
+nodejs-project/node_modules/@ets-components
+nodejs-project/node_modules/@hapi
+nodejs-project/node_modules/@jridgewell
+nodejs-project/node_modules/@nestjs
+nodejs-project/node_modules/@nuxtjs
+nodejs-project/node_modules/@sideway
+nodejs-project/node_modules/@turf
+nodejs-project/node_modules/@types
+nodejs-project/node_modules/@webassemblyjs
+nodejs-project/node_modules/@xtuc
