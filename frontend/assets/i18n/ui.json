@@ -1,0 +1,11 @@
+{
+  "cl0_ui_scene_editorPane": "Editor Pane",
+  "cl0_ui_scene_stopDistance": "Stop distance",
+  "cl0_ui_scene_speedRedWarningDistance": "Speed red. / Warning distance",
+  "cl0_ui_scene_scanData": "Scan data",
+  "cl0_ui_scene_walls": "Walls",
+  "cl0_ui_scene_circles": "Circles",
+  "cl0_ui_header_loadingManual": "Loading manual...",
+  "cl0_ui_scene_loadConfig": "Load latest config",
+  "cl0_ui_scene_noConfig": "No latest config available"
+}
